@@ -1,0 +1,6 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore symbolic links
+github-visible
+gitignore-visible
